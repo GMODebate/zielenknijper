@@ -5,7 +5,7 @@
 This repository serves as a backup of Zielenknijper.com, published on the following online platforms:
 
 - Zielenknijper.com: [https://en.zielenknijper.com/](https://en.zielenknijper.com/)
-- Github Pages: [https://gmodebate.github.io/zielenknijper/en/](https://gmodebate.github.io/zielenknijper/)
+- Github Pages: [https://gmodebate.github.io/zielenknijper/](https://gmodebate.github.io/zielenknijper/en/)
 
 ### 🇬 Google's Corruption for 👾 AI Life
 [https://gmodebate.github.io/google/](https://gmodebate.github.io/google/) | An Investigation of Google's Fake Employee Hoarding Scandal and Embrace of Military AI
