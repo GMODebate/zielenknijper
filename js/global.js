@@ -2070,12 +2070,7 @@
         }
         TOGGLE_DARK_THEME();
 
-        OS_DARK_MODE = win.matchMedia('(prefers-color-scheme: dark)').matches;
-        if (OS_DARK_MODE === DARK_MODE) {
-            localStorage.removeItem('dark');
-        } else {
-            localStorage.setItem('dark', (DARK_MODE) ? '1' : '0');
-        }
+        localStorage.setItem('dark', (DARK_MODE) ? '1' : '0');
 
         SET_CLASS(HTML, 'dark', !DARK_MODE);
 
