@@ -208,7 +208,7 @@
                 "backgroundOptions": {
                     "color": "#ffffff"
                 },
-                "image": ((win.siteprefix) ? win.siteprefix : '') + "/images/butterfly-zk.png",
+                "image": ((window.siteprefix) ? window.siteprefix : '') + "/images/butterfly-zk.png",
                 "dotsOptionsHelper": {
                     "colorType": {
                         "single": true,
